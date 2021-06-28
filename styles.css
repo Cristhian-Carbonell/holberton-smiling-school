@@ -1,3 +1,5 @@
+/*** Header first
+    ------------------------------------------ ***/
 * {
     font-family: 'Source Sans Pro'!important;
 }
@@ -113,4 +115,11 @@ header a:hover {
     .users .h5 {
         font-size: 1.1rem;
     }
+}
+
+/*** Carousel of quotes
+    -------------------------------------- ***/
+
+.bg-violet {
+    background-color: #c271ff!important;
 }
